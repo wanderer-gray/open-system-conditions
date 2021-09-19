@@ -1,0 +1,19 @@
+{
+  "name": "open-system-conditions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanderer-gray/open-system-conditions.git"
+  },
+  "author": "meerkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanderer-gray/open-system-conditions/issues"
+  },
+  "homepage": "https://github.com/wanderer-gray/open-system-conditions#readme"
+}
